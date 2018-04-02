@@ -1,2 +1,2 @@
 # quadCalendar
-just a calendar
+just a calendar for PowerBI
